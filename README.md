@@ -82,5 +82,6 @@ or you can follow my Twitter and Github:
 <table><tr><td valign="top">
 
 
-- 👉 [Old Blog](ghostwritten.blog.csdn.net)
+- 👉 [Old Blog](https://ghostwritten.blog.csdn.net)
+	
 - 👉 [New Blog](https://smoothies.com.cn/)
