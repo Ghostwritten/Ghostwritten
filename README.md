@@ -77,8 +77,8 @@ or you can follow my Twitter and Github:
 [![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&show_icons=true&theme=dark&hide_border=false" alt="Ghostwritten" width=49.8% /></span>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostwritten&theme=react" alt="Ghostwritten" width=49.8% /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&show_icons=true&theme=dark&hide_border=false" alt="Ghostwritten" width=50% /></span>
+<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostwritten&theme=dark" alt="Ghostwritten" width=50% /></span>
 
 <table><tr><td valign="top">
 
@@ -86,14 +86,15 @@ or you can follow my Twitter and Github:
 
 <!--START_SECTION:ghostwritten-->
 ```text
-shell      43 hrs 43 mins  ██████████████████████▒░░   89.90 % 
-Markdown   2 hrs 3 mins    █████████████░░░░░░░░░░░░   50.23 % 
-python     1 hr 36 mins    ████████░░░░░░░░░░░░░░░░░   34.30 % 
-go         7 mins          ████░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Makefile   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+shell      43 hrs 43 mins  ██████████████░░░░░░░░░▒░   54.55 % 
+python   20 hrs 3 mins     ████████░░░░░░░░░░░░░░░░░   32.23 % 
+go     13 hr 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+lua         7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+markdown   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
  
 ```
 <!--END_SECTION:ghostwritten-->
+
 
 ---
 
