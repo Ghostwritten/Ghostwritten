@@ -82,6 +82,7 @@ or you can follow my Twitter and Github:
 
 <table><tr><td valign="top">
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&theme=dark&show_icons=true">](https://metrics.lecoq.io/?template=classic)
 
 - 👉 [Old Blog](https://ghostwritten.blog.csdn.net)
 	
