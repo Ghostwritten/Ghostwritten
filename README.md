@@ -76,13 +76,26 @@ or you can follow my Twitter and Github:
 [![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
 [![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&theme=dark&show_icons=true">](https://metrics.lecoq.io/?template=classic)
+
 <span><img src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&show_icons=true&theme=dark&hide_border=false" alt="Ghostwritten" width=49.8% /></span>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostwritten&theme=react" alt="Ghostwritten" width=49.8% /></span>
 
 <table><tr><td valign="top">
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&theme=dark&show_icons=true">](https://metrics.lecoq.io/?template=classic)
+#### :bar_chart: Weekly development breakdown
+
+<!--START_SECTION:ghostwritten-->
+```text
+shell      43 hrs 43 mins  ██████████████████████▒░░   89.90 % 
+Markdown   2 hrs 3 mins    █████████████░░░░░░░░░░░░   50.23 % 
+python     1 hr 36 mins    ████████░░░░░░░░░░░░░░░░░   34.30 % 
+go         7 mins          ████░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Makefile   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+ 
+```
+<!--END_SECTION:ghostwritten-->
+
+---
 
 - 👉 [Old Blog](https://ghostwritten.blog.csdn.net)
 	
