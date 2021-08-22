@@ -76,7 +76,7 @@ or you can follow my Twitter and Github:
 [![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
 [![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&show_icons=true&theme=react&hide_border=false" alt="Ghostwritten" width=49.8% /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&show_icons=true&theme=dark&hide_border=false" alt="Ghostwritten" width=49.8% /></span>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostwritten&theme=react" alt="Ghostwritten" width=49.8% /></span>
 
 <table><tr><td valign="top">
