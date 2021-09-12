@@ -101,3 +101,63 @@ markdown   40 mins         ▒░░░░░░░░░░░░░░░░�
 - 👉 [Old Blog](https://ghostwritten.blog.csdn.net)
 	
 - 👉 [New Blog](https://smoothies.com.cn/)
+
+
+#### :sparkles: My followers
+
+<!--START_SECTION:top-followers-->
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ruanyf">
+        <img src="https://avatars.githubusercontent.com/u/905434" width="100px;" alt="ruanyf"/>
+      </a>
+      <br />
+      <a href="https://github.com/wizardforcel">Ruan YiFeng</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Magicianred">
+        <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
+      </a>
+      <br />
+      <a href="https://github.com/Magicianred">Simone Paolucci</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gaocegege">
+        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      </a>
+      <br />
+      <a href="https://github.com/gaocegege">Ce Gao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lzwjava">
+        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
+      </a>
+      <br />
+      <a href="https://github.com/lzwjava">lzwjava</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ir1d">
+        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ir1d">Ir1dXD</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hua1995116">
+        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
+      </a>
+      <br />
+      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zTrix">
+        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
+      </a>
+      <br />
+      <a href="https://github.com/zTrix">Wenlei Zhu</a>
+    </td>
+  </tr>
+  <tr>
+</table>
