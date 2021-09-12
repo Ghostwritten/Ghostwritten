@@ -13,11 +13,14 @@ or you can follow my Twitter and Github:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <p align="left"> 
-  Visitor count<br>
-  <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/count.svg" />
+  Visitor count:<br>
+  <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/count.svg"  width="320"  />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghostwritten&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Ghostwritten"  width="400" height="420" /></a> </p>
+
+
+<p align="left"> Github Profile Trophy:
+	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghostwritten&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Ghostwritten"  width="440" height="180" /></a> </p>
 
 ### Platform & Tools
 
