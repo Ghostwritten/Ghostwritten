@@ -14,19 +14,16 @@ or you can follow my Twitter and Github:
 
 <p align="left"> 
   Visitor count:<br>
-  <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/count.svg"  width="320"  />
+  <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/count.svg"  />
 </p>
 
 
 
-<p align="left"> Github Profile Trophy:
-	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghostwritten&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Ghostwritten"  width="440" height="180" /></a> </p>
 
 ### Platform & Tools
 
 [![](https://img.shields.io/badge/macOS-BigSur-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://img.shields.io/badge/Browser-FireFox-4285f4?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.mozilla.org/zh-CN/firefox/new/)
-
 [![](https://img.shields.io/badge/IDE-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/)
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Note-Notion-000000?style=flat-square&logo=notion&logoColor=ffffff)](https://notion.so)
@@ -41,7 +38,6 @@ or you can follow my Twitter and Github:
 [![](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=ffffff)](https://grafana.com/)
 [![](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=ffffff)](https://goharbor.io/)
 [![](https://img.shields.io/badge/-Consul-F24C53?style=flat-square&logo=consul&logoColor=ffffff)](https://www.consul.io/)
-
 [![](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=ffffff)](https://gohugo.io/)
 [![](https://img.shields.io/badge/-jekyll-FFA500?style=flat-square&logo=jekyll&logoColor=ffffff)](https://jekyllrb.com/)
 [![](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
@@ -50,11 +46,15 @@ or you can follow my Twitter and Github:
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-python-blue?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
-[![](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
+
 
 
 <span><img src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&show_icons=true&theme=dark&hide_border=false" alt="Ghostwritten" width=50% /></span>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostwritten&theme=dark" alt="Ghostwritten" width=50% /></span>
+
+
+<p align="left"> Github Profile Trophy:
+	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghostwritten&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Ghostwritten"  /></a> </p>
 
 <table><tr><td valign="top">
 
