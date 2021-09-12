@@ -103,7 +103,7 @@ markdown   40 mins         ▒░░░░░░░░░░░░░░░░�
 - 👉 [New Blog](https://smoothies.com.cn/)
 
 
-#### :sparkles: My followers
+#### :sparkles: My day-to-day followers
 
 <!--START_SECTION:top-followers-->
 
