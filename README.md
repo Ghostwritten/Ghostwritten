@@ -1,50 +1,23 @@
-### Hi there 👋
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+hi, i'm ghostwritten, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-<!--
-**Ghostwritten/Ghostwritten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-	<br>
-	<a href="https://smoothies.com.cn" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten@master/assets/welcome.gif" width="800" height="400">
-        <!-- <img src="assets/welcome.gif" width="800" height="400"> -->
-	</a>
-	<br>
-</div>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/count.svg" />
-</p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghostwritten&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Ghostwritten" /></a> </p>
-
-
-Currently working on [BSG](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px"> associated projects at [kubernetes](https://kubernetes.io/). Read [my blog](https://smoothies.com.cn/) or follow my WeChat public account：
-
-<div align="center">
-  <p>
-    
-  <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/QR.png" width="250" alt="夜间思维" />
-
-  </p>
-</div>
+Currently working on [BSG](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px"> associated projects at [kubernetes](https://kubernetes.io/). Read [my blog](https://smoothies.com.cn/) or follow my WeChat public account：爱死亡机器人.
 
 or you can follow my Twitter and Github:
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/cnghostwritten?style=social)](https://twitter.com/cnghostwritten)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Ghostwritten?label=follow&style=social)](https://github.com/Ghostwritten)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/count.svg" />
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghostwritten&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Ghostwritten"  width="400" height="420" /></a> </p>
 
 ### Platform & Tools
 
