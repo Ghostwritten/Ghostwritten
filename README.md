@@ -114,49 +114,49 @@ markdown   40 mins         ▒░░░░░░░░░░░░░░░░�
         <img src="https://avatars.githubusercontent.com/u/905434" width="100px;" alt="ruanyf"/>
       </a>
       <br />
-      <a href="https://github.com/wizardforcel">Ruan YiFeng</a>
+      <a href="https://github.com/ruanyf">Ruan YiFeng</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Magicianred">
-        <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
+      <a href="https://github.com/rootsongjc">
+        <img src="https://avatars.githubusercontent.com/u/3328185" width="100px;" alt="rootsongjc"/>
       </a>
       <br />
-      <a href="https://github.com/Magicianred">Simone Paolucci</a>
+      <a href="https://github.com/rootsongjc">Jimmy Song</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      <a href="https://github.com/feiskyer">
+        <img src="https://avatars.githubusercontent.com/u/676637" width="100px;" alt="feiskyer"/>
       </a>
       <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
+      <a href="https://github.com/feiskyer">Pengfei Ni</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lzwjava">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
+      <a href="https://github.com/resouer">
+        <img src="https://avatars.githubusercontent.com/u/1701782" width="100px;" alt="resouer"/>
       </a>
       <br />
-      <a href="https://github.com/lzwjava">lzwjava</a>
+      <a href="https://github.com/resouer">Lei Zhang (Harry)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
+      <a href="https://github.com/jaywcjlove">
+        <img src="https://avatars.githubusercontent.com/u/1680273" width="100px;" alt="jaywcjlove"/>
       </a>
       <br />
-      <a href="https://github.com/Ir1d">Ir1dXD</a>
+      <a href="https://github.com/jaywcjlove">小弟调调™</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
+      <a href="https://github.com/yangchuansheng">
+        <img src="https://avatars.githubusercontent.com/u/15308462" width="100px;" alt="yangchuansheng"/>
       </a>
       <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+      <a href="https://github.com/yangchuansheng">Carson Yang</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zTrix">
-        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
+      <a href="https://github.com/cnych">
+        <img src="https://avatars.githubusercontent.com/u/3094973" width="100px;" alt="cnych"/>
       </a>
       <br />
-      <a href="https://github.com/zTrix">Wenlei Zhu</a>
+      <a href="https://github.com/cnych">Wenlei Zhu</a>
     </td>
   </tr>
   <tr>
