@@ -6,7 +6,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 Currently working on [BSG](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px"> associated projects at [kubernetes](https://kubernetes.io/). Read [my blog](https://smoothies.com.cn/) or follow my WeChat public account：爱死亡机器人.
 
 or you can follow my Twitter and Github:
-
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/cnghostwritten?style=social)](https://twitter.com/cnghostwritten)
 [![GitHub Thaiane](https://img.shields.io/github/followers/Ghostwritten?label=follow&style=social)](https://github.com/Ghostwritten)
 
