@@ -2,6 +2,8 @@
 hi, i'm ghostwritten, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+
+
 Currently working on [BSG](http://www.bsgchina.com/) <img src="https://cdn.jsdelivr.net/gh/TheDudeThatCode/TheDudeThatCode/Assets/Developer.gif" width="30px"> and cloud-native <img src="https://cdn.jsdelivr.net/gh/Ghostwritten/Ghostwritten/assets/gopher.gif" width="26px"> associated projects at [kubernetes](https://kubernetes.io/). Read [my blog](https://smoothies.com.cn/) or follow my WeChat public account：爱死亡机器人.
 
 or you can follow my Twitter and Github:
@@ -48,7 +50,9 @@ or you can follow my Twitter and Github:
 
 
 <span><img src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&show_icons=true&theme=dark&hide_border=false" alt="Ghostwritten" width=50% /></span>
+<a href="https://app.daily.dev/ghostwritten" ><img src="https://api.daily.dev/devcards/cdfc7a689b9c4fa7b9dfa529683fe998.png?r=n7h" width="180" height="200" alt="BlackSwanGreen's Dev Card"/></a>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostwritten&theme=dark" alt="Ghostwritten" width=50% /></span>
+
 
 
 <p align="left"> Github Profile Trophy:
