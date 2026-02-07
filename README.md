@@ -47,33 +47,6 @@ or you can follow my Twitter and Github:
 [![](https://img.shields.io/badge/-python-blue?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
 
-
-
-<span><img src="https://github-readme-stats.vercel.app/api?username=Ghostwritten&show_icons=true&theme=dark&hide_border=false" alt="Ghostwritten" width=50% /></span>
-<a href="https://app.daily.dev/ghostwritten" ><img src="https://api.daily.dev/devcards/cdfc7a689b9c4fa7b9dfa529683fe998.png?r=n7h" width="180" height="200" alt="BlackSwanGreen's Dev Card"/></a>
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghostwritten&theme=dark" alt="Ghostwritten" width=50% /></span>
-
-
-
-<p align="left"> Github Profile Trophy:
-	<br><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ghostwritten&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="Ghostwritten"  /></a> </p>
-
-<table><tr><td valign="top">
-
-#### :bar_chart: Weekly development breakdown
-
-<!--START_SECTION:ghostwritten-->
-```text
-shell      43 hrs 43 mins  ██████████████░░░░░░░░░▒░   54.55 % 
-python   20 hrs 3 mins     ████████░░░░░░░░░░░░░░░░░   32.23 % 
-go     13 hr 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-lua         7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-markdown   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
- 
-```
-<!--END_SECTION:ghostwritten-->
-
-
 ---
 
 - 👉 [Old Blog](https://ghostwritten.blog.csdn.net)
